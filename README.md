@@ -14,12 +14,22 @@
 - Works with both I2S digital microphones and analog microphones.
 
 - **Audio Library**: Integrated support via the Teensy Audio Library makes setup and coding much simpler compared to other microcontrollers.
+
+More about Teensy [here](https://www.sparkfun.com/teensy-4-1.html)
+
+
+-----------
+
+### Getting inspired with Teensy Projects
+
   
 Why Teensy? Watch [Youtube video](https://www.youtube.com/watch?v=75IvTqRwNsE)
 
-More about using the Teensy for audio projects [here](https://www.youtube.com/watch?v=exhIvvogbsg&list=PLDnEejiR3mBwSYLSxqluI-c01M04JyP2c)
+[Teensy Drum Sample Player](https://www.youtube.com/watch?v=exhIvvogbsg&list=PLDnEejiR3mBwSYLSxqluI-c01M04JyP2c)
 
-More about Teensy [here](https://www.sparkfun.com/teensy-4-1.html)
+[Polyphonic Subtractive Synthesizer on Teensy 4.1](https://www.youtube.com/watch?v=QcZ3WIZ24l4)
+
+[Recording and Sampling on Teensy 4.1](https://www.youtube.com/watch?v=KuPWz8McP5k)
 
 -----------
 ### Teensy set up (for Arduino IDE)
