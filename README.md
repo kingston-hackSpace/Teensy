@@ -34,14 +34,19 @@ If you are using the Teensy 4.1 for the first time, you will need to follow the 
 
 - Install the Teensyduino Library. See more [here](https://www.pjrc.com/teensy/td_download.html)
 
-- Further installation guidance [for Windows](https://www.youtube.com/watch?v=az9oHKhK7Uc)
+  
+**On macOS**, Teensyduino installs a modified copy of Arduino IDE so you can use it with Teensy boards.
+
+**On Windows**, the Teensyduino installer adds Teensy support directly into your existing Arduino IDE installation. Further installation guidance [for Windows](https://www.youtube.com/watch?v=az9oHKhK7Uc)
 
 - done! Plug the Teensy 4.1 to your computer.
 
-- Select the teensy as your board.
+- Open Arduino IDE (on Windows) or Teensyduino (on macOS).
 
-- If the Teensy is not turning on, you might need to press the BOOST button. Reboot the board. 
+- Select Board: Teensy 4.1
 
-- Upload Arduino's Blink example to test communication
+- If the Teensy is not turning on, you might need to press the BOOST button. Unplug and plug again to reboot the board. 
+
+- Upload Arduino's Blink example to test communication.
 
 
