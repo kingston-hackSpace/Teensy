@@ -25,6 +25,8 @@ More about Teensy [here](https://www.sparkfun.com/teensy-4-1.html)
   
 Why Teensy? Watch [Youtube video](https://www.youtube.com/watch?v=75IvTqRwNsE)
 
+[Teensy Audio Workshop](https://hackaday.io/project/8292-microcontroller-audio-workshop-had-supercon-2015)
+
 [Teensy Audio Adapter Board](https://www.youtube.com/watch?v=A0JRZc5-ruQ)
 
 [Teensy Drum Sample Player](https://www.youtube.com/watch?v=exhIvvogbsg&list=PLDnEejiR3mBwSYLSxqluI-c01M04JyP2c)
