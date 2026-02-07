@@ -26,22 +26,21 @@ More about Teensy [here](https://www.sparkfun.com/teensy-4-1.html)
 
 If you are using the Teensy 4.1 for the first time, you will need to follow the next set-up steps:
 
-- Open your Arduino IDE, and click File > Preferences (on MacOS, click Arduino IDE > Settings).
+- Open your Arduino IDE and click on File > Preferences (on MacOS, click Arduino IDE > Settings).
 
 - In "Additional boards manager URLs", copy this link: https://www.pjrc.com/teensy/package_teensy_index.json
 
-- In the main Arduino window, open Boards Manager by clicking the left-side board icon, search for "teensy", and click "Install".
+- In the main Arduino window, open the Boards Manager by clicking the left-side board icon, search for "teensy", and click "Install".
 
-- Install the Teensyduino Library. See more [here](https://www.pjrc.com/teensy/td_download.html)
+- Install Teensyduino. This is an add-on for your Arduino IDE that will allow you to program Teensy boards. To install, follow the steps [here](https://www.pjrc.com/teensy/td_download.html)
 
-  
-**On macOS**, Teensyduino installs a modified copy of Arduino IDE so you can use it with Teensy boards.
+**On macOS**, Teensyduino installs a modified copy of Arduino IDE so you can use it with Teensy boards. In other words, you will se a "Teensyduino" Arduino IDE version. This is the one you will nee to use for this board. 
 
 **On Windows**, the Teensyduino installer adds Teensy support directly into your existing Arduino IDE installation. Further installation guidance [for Windows](https://www.youtube.com/watch?v=az9oHKhK7Uc)
 
 - done! Plug the Teensy 4.1 to your computer.
 
-- Open Arduino IDE (on Windows) or Teensyduino (on macOS).
+- Open Arduino IDE (Windows) or Teensyduino (macOS). 
 
 - Select Board: Teensy 4.1
 
