@@ -25,11 +25,17 @@ More about Teensy [here](https://www.sparkfun.com/teensy-4-1.html)
   
 Why Teensy? Watch [Youtube video](https://www.youtube.com/watch?v=75IvTqRwNsE)
 
+[Teensy Audio Adapter Board](https://www.youtube.com/watch?v=A0JRZc5-ruQ)
+
 [Teensy Drum Sample Player](https://www.youtube.com/watch?v=exhIvvogbsg&list=PLDnEejiR3mBwSYLSxqluI-c01M04JyP2c)
 
 [Polyphonic Subtractive Synthesizer on Teensy 4.1](https://www.youtube.com/watch?v=QcZ3WIZ24l4)
 
 [Recording and Sampling on Teensy 4.1](https://www.youtube.com/watch?v=KuPWz8McP5k)
+
+[Make your own wedding audio guestbook - a step-by-step guide!](https://www.youtube.com/watch?v=dI6ielrP1SE)
+
+[Teensy Audio Library, Delay Line Demo](https://www.youtube.com/watch?v=d80d1HWy5_s&list=PLPf5hVxMwQ3r52Qrl9kTEO7oFAUXx9VNw)
 
 -----------
 ### Teensy set up (for Arduino IDE)
