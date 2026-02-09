@@ -40,9 +40,9 @@ If you are using the Teensy 4.1 for the first time, you will need to follow the 
 
 - Select Board: Teensy 4.1
 
-- If the Teensy is not turning on, you might need to press the BOOST button. Unplug and plug again to reboot the board. 
+- If the Teensy is not turning on, you might need to press the BOOST button. 
 
-- Upload Arduino's Blink example to test communication.
+- Upload Arduino's Blink example to test communication. You should see the on-board LED blinking. Test different speeds to confirm sucess communication. 
 
 -----------
 
