@@ -1,5 +1,6 @@
 # Teensy_4-1
 
+About Teensy:
 
 - **600 MHz Cortex-M7 processor**: extremely fast, capable of handling real-time audio processing without glitches.
 
@@ -45,8 +46,14 @@ If you are using the Teensy 4.1 for the first time, you will need to follow the 
 - Upload Arduino's Blink example to test communication. You should see the on-board LED blinking. Test different speeds to confirm sucess communication. 
 
 -----------
+### Teensy 4.1 PINOUT
 
-### Getting inspired with Teensy Projects
+Front : see [PDF here](https://github.com/kingston-hackSpace/Teensy_4-1/blob/main/TEENSE_FRONT.pdf)
+
+Back : see [PDF here](https://github.com/kingston-hackSpace/Teensy_4-1/blob/main/TEENSY_BACK.pdf)
+
+-----------
+### Getting inspired : Teensy Projects
 
   
 Why Teensy? Watch [Youtube video](https://www.youtube.com/watch?v=75IvTqRwNsE)
