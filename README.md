@@ -1,27 +1,13 @@
-# Teensy_4-1
+# Teensy_4.0 / Teensy_4.1
 
-About Teensy:
+More about [Teense 4.0 here]
 
-- **600 MHz Cortex-M7 processor**: extremely fast, capable of handling real-time audio processing without glitches.
-
-- **1 MB of RAM**: Huge RAM, this large memory allows huge buffers, so audio can be streamed and written to storage without dropouts. Can record minutes or hours. 
-
-- **Built-in microSD socket**: native SDIO interface is much faster than SPI, allowing continuous audio recording for minutes or hours.
-
-- **3.3 V logic**: compatible with most I2S microphones and peripherals without level-shifting.
-
-- **Supports 44.1 kHz, 16-bit audio**: enabling high-quality recordings.
-
-- Works with both I2S digital microphones and analog microphones.
-
-- **Audio Library**: Integrated support via the Teensy Audio Library makes setup and coding much simpler compared to other microcontrollers.
-
-More about Teensy [here](https://www.sparkfun.com/teensy-4-1.html)
+More about [Teensy 4.1 here](https://www.sparkfun.com/teensy-4-1.html)
 
 -----------
 ### Teensy set up (for Arduino IDE)
 
-If you are using the Teensy 4.1 for the first time, you will need to follow the next set-up steps:
+If you are using the Teensy for the first time, you will need to follow the next set-up steps:
 
 - Open your Arduino IDE and click on File > Preferences (on MacOS, click Arduino IDE > Settings).
 
@@ -35,22 +21,22 @@ If you are using the Teensy 4.1 for the first time, you will need to follow the 
 
 **On Windows**, the Teensyduino installer adds Teensy support directly into your existing Arduino IDE installation. Further installation guidance [for Windows](https://www.youtube.com/watch?v=az9oHKhK7Uc)
 
-- done! Plug the Teensy 4.1 to your computer.
+- done! Plug the Teensy to your computer.
 
 - Open Arduino IDE (Windows) or Teensyduino (macOS). 
 
-- Select Board: Teensy 4.1
+- Select Board: Teensy 4.0 or 4.1
 
 - If the Teensy is not turning on, you might need to press the BOOST button. 
 
 - Upload Arduino's Blink example to test communication. You should see the on-board LED blinking. Test different speeds to confirm sucess communication. 
 
 -----------
-### Teensy 4.1 PINOUT
+### Teensy PINOUT
 
-Front : see [PDF here](https://github.com/kingston-hackSpace/Teensy_4-1/blob/main/TEENSE_FRONT.pdf)
+Teensy 4.0 PINNOUT 
 
-Back : see [PDF here](https://github.com/kingston-hackSpace/Teensy_4-1/blob/main/TEENSY_BACK.pdf)
+Teense 4.1 PINOUT
 
 -----------
 ### Getting inspired : Teensy Projects
