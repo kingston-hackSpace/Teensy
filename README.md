@@ -34,9 +34,9 @@ If you are using the Teensy for the first time, you will need to follow the next
 -----------
 ### Teensy PINOUT
 
-Teensy 4.0 PINNOUT 
+[Teensy 4.0 PINNOUT] 
 
-Teense 4.1 PINOUT
+[Teense 4.1 PINOUT](https://github.com/kingston-hackSpace/Teensy/blob/main/Teensy4_1_pinout.pdf)
 
 -----------
 ### Getting inspired : Teensy Projects
