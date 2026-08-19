@@ -1,8 +1,8 @@
 # Teensy_4.0 / Teensy_4.1
 
-More about [Teense 4.0 here]
+More about [Teense 4.0 here](https://www.pjrc.com/store/teensy40.html)
 
-More about [Teensy 4.1 here](https://www.sparkfun.com/teensy-4-1.html)
+More about [Teensy 4.1 here](https://www.pjrc.com/store/teensy41.html)
 
 -----------
 ### Teensy set up (for Arduino IDE)
