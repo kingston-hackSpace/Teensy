@@ -31,7 +31,7 @@ If you are using the Teensy 4.1 for the first time, you will need to follow the 
 
 - Install Teensyduino. This is an add-on for your Arduino IDE that will allow you to program Teensy boards. To install, follow the steps [here](https://www.pjrc.com/teensy/td_download.html)
 
-**On macOS**, Teensyduino installs a modified copy of Arduino IDE so you can use it with Teensy boards. In other words, you will se a "Teensyduino" Arduino IDE version. This is the one you will nee to use for this board. 
+**On macOS**, Teensyduino installs a modified copy of Arduino IDE so you can use it with Teensy boards. In other words, you will se a "Teensyduino" Arduino IDE version. This is the one you will need to use for this board. 
 
 **On Windows**, the Teensyduino installer adds Teensy support directly into your existing Arduino IDE installation. Further installation guidance [for Windows](https://www.youtube.com/watch?v=az9oHKhK7Uc)
 
