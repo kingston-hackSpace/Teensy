@@ -9,27 +9,33 @@ More about [Teensy 4.1 here](https://www.pjrc.com/store/teensy41.html)
 
 If you are using the Teensy for the first time, you will need to follow the next set-up steps:
 
-- Open your Arduino IDE and click on File > Preferences (on MacOS, click Arduino IDE > Settings).
+- Open your Arduino IDE
+
+- At the top left, click on **Arduino IDE > Settings...**
 
 - In "Additional boards manager URLs", copy this link: https://www.pjrc.com/teensy/package_teensy_index.json
 
-- In the main Arduino window, open the Boards Manager by clicking the left-side board icon, search for "teensy", and click "Install".
+- "OK"
 
-- Install Teensyduino. This is an add-on for your Arduino IDE that will allow you to program Teensy boards. To install, follow the steps [here](https://www.pjrc.com/teensy/td_download.html)
+- In the main Arduino window, open the Boards Manager (located at the left-side of the window)
 
-**On macOS**, Teensyduino installs a modified copy of Arduino IDE so you can use it with Teensy boards. In other words, you will se a "Teensyduino" Arduino IDE version. This is the one you will need to use for this board. 
+- Use the search box and type "teensy"
 
-**On Windows**, the Teensyduino installer adds Teensy support directly into your existing Arduino IDE installation. Further installation guidance [for Windows](https://www.youtube.com/watch?v=az9oHKhK7Uc)
+- Once you see **Teensy (for Arduino IDE) by Paul Stoffregen**, click "Install". Wait until the installation process completes. 
 
 - done! Plug the Teensy to your computer.
 
-- Open Arduino IDE (Windows) or Teensyduino (macOS). 
+- Go to **Tools** and select: **Board** > Teensy > Teensy 4.0 (or 4.1 if you are using this one)
 
-- Select Board: Teensy 4.0 or 4.1
+- Go to **Tools** again, but now select: **Port** > (the port in your computer may vary, but it should correspond to the USB option)
 
-- If the Teensy is not turning on, you might need to press the BOOST button. 
+- On the teensy board, press the BOOST button. An LED will blink.
 
-- Upload Arduino's Blink example to test communication. You should see the on-board LED blinking. Test different speeds to confirm sucess communication. 
+- To test communication, upload a **Blink example**. Change the blinking speed to confirm that communication has succeed.
+
+- Go to **File** > Examples > 01.Basics > Blink
+
+- Upload the code to your board.
 
 -----------
 ### Teensy PINOUT
